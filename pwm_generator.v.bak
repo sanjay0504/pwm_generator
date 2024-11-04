@@ -1,0 +1,17 @@
+pwm_generator(
+	input clk,
+	input [7:0] duty,
+	output pwm_out,
+);
+
+	reg [7:0] counter;
+
+	always@(posedge clk)begin
+		counter <= counter + 1;
+		if(counter < duty)
+			pwm_out = 1;
+		else
+			pwm_out = 0;
+	end
+
+endmodule
