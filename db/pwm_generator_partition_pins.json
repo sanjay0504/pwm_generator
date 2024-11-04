@@ -1,0 +1,137 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "pwm_out",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[0]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[1]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[2]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[3]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[4]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[5]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[6]",
+					"strict" : false
+				},
+				{
+					"name" : "duty_led[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex4[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex5[6]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[0]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[1]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[2]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[3]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[4]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[5]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[6]",
+					"strict" : false
+				},
+				{
+					"name" : "duty[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
